@@ -1,0 +1,873 @@
+
+Thu Aug 24 17:55:08 2023
+Avvio del programma[2023-08-24 18:26:45] Avvio del programma
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Stampati tutti i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:45] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati dello studente
+[2023-08-24 18:26:46] Generati i dati degli studenti nell'elenco
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati dello studente
+[2023-08-24 18:26:46] Stampati tutti i dati degli studenti
+[2023-08-24 18:26:46] Chiusura del programma
+[2023-08-29 11:33:11] Avvio del programma
+[2023-08-29 11:33:29] Inseriti i dati dello studente
+[2023-08-29 11:33:29] Stampati tutti i dati dello studente
+[2023-08-29 11:33:29] Chiusura del programma
+[2023-08-29 11:37:27] Avvio del programma
+[2023-08-29 11:37:45] Inseriti i dati dello studente
+[2023-08-29 11:37:45] Stampati tutti i dati dello studente
+[2023-08-29 11:37:45] Chiusura del programma
+[2023-08-29 11:38:30] Avvio del programma
+[2023-08-29 11:38:53] Inseriti i dati dello studente
+[2023-08-29 11:38:53] Stampati tutti i dati dello studente
+[2023-08-29 11:38:53] Chiusura del programma
+[2023-08-29 11:46:23] Avvio del programma
+[2023-08-29 11:46:37] Inseriti i dati dello studente
+[2023-08-29 11:46:37] Stampati tutti i dati dello studente
+[2023-08-29 11:46:37] Chiusura del programma
+[2023-08-30 10:39:54] Avvio del programma
+[2023-08-30 10:39:59] Inseriti i dati dello studente
+[2023-08-30 10:39:59] Stampati tutti i dati dello studente
+[2023-08-30 10:39:59] Chiusura del programma
+[2023-08-30 11:17:18] Avvio del programma
+[2023-08-30 11:17:42] Inseriti i dati dello studente
+[2023-08-30 11:17:42] Stampati tutti i dati dello studente
+[2023-08-30 11:17:42] Arresto del programma
+[2023-08-30 11:20:50] Avvio del programma
+[2023-08-30 11:20:50] Generati i dati dello studente
+[2023-08-30 11:20:50] Stampati tutti i dati dello studente
+[2023-08-30 11:20:50] Arresto del programma
+[2023-08-30 11:23:33] Avvio del programma
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati dello studente
+[2023-08-30 11:23:33] Generati i dati degli studenti nell'elenco
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:33] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati dello studente
+[2023-08-30 11:23:34] Stampati tutti i dati degli studenti nell'elenco
+[2023-08-30 11:23:34] Arresto del programma
+[2023-08-30 11:26:47] Avvio del programma
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:47] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati dello studente
+[2023-08-30 11:26:48] Generati i dati degli studenti nell'elenco
+[2023-08-30 11:26:48] Stampato calcolo entrate
+[2023-08-30 11:26:48] Stampati studenti ordinati per titolo di studio
+[2023-08-30 11:26:48] Arresto del programma
+[2023-08-30 14:27:36] Avvio del programma
+[2023-08-30 14:28:05] Inseriti i dati dello studente
+[2023-08-30 14:28:05] Stampati tutti i dati dello studente
+[2023-08-30 14:28:05] Arresto del programma
+[2023-08-30 14:28:29] Avvio del programma
+[2023-08-30 14:28:29] Generati i dati dello studente
+[2023-08-30 14:28:29] Stampati tutti i dati dello studente
+[2023-08-30 14:28:29] Arresto del programma
+[2023-08-30 14:30:04] Avvio del programma
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:04] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati dello studente
+[2023-08-30 14:30:05] Generati i dati degli studenti nell'elenco
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati dello studente
+[2023-08-30 14:30:05] Stampati tutti i dati degli studenti nell'elenco
+[2023-08-30 14:30:05] Arresto del programma
+[2023-08-30 14:31:07] Avvio del programma
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati dello studente
+[2023-08-30 14:31:07] Generati i dati degli studenti nell'elenco
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati dello studente
+[2023-08-30 14:31:08] Stampati tutti i dati degli studenti nell'elenco
+[2023-08-30 14:31:08] Stampato calcolo entrate
+[2023-08-30 14:31:08] Stampati studenti ordinati per titolo di studio
+[2023-08-30 14:31:08] Arresto del programma
+[2023-08-30 14:31:57] Avvio del programma
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati dello studente
+[2023-08-30 14:31:57] Generati i dati degli studenti nell'elenco
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:57] Stampati tutti i dati dello studente
+[2023-08-30 14:31:58] Stampati tutti i dati dello studente
+[2023-08-30 14:31:58] Stampati tutti i dati dello studente
+[2023-08-30 14:31:58] Stampati tutti i dati dello studente
+[2023-08-30 14:31:58] Stampati tutti i dati dello studente
+[2023-08-30 14:31:58] Stampati tutti i dati dello studente
+[2023-08-30 14:31:58] Stampati tutti i dati degli studenti nell'elenco
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati tutti i dati dello studente
+[2023-08-30 14:32:07] Stampati studenti col codice fiscale inserito
+[2023-08-30 14:32:25] Stampati tutti i dati dello studente
+[2023-08-30 14:32:25] Stampati gli studenti con la stessa edizione
+[2023-08-30 14:32:25] Arresto del programma
+[2023-08-30 14:34:27] Avvio del programma
+[2023-08-30 14:34:27] Criptati i dati dello studente
+[2023-08-30 14:34:27] Stampati tutti i dati dello studente
+[2023-08-30 14:34:27] Decriptati i dati dello studente
+[2023-08-30 14:34:27] Stampati tutti i dati dello studente
+[2023-08-30 14:34:27] Arresto del programma
+[2023-08-30 14:36:21] Avvio del programma
+[2023-08-30 14:36:21] Criptati i dati dello studente
+[2023-08-30 14:36:21] Stampati tutti i dati dello studente
+[2023-08-30 14:36:21] Decriptati i dati dello studente
+[2023-08-30 14:36:21] Stampati tutti i dati dello studente
+[2023-08-30 14:36:21] Arresto del programma
+[2023-08-30 14:37:28] Avvio del programma
+[2023-08-30 14:37:28] Generati i dati dello studente
+[2023-08-30 14:37:28] Criptati i dati dello studente
+[2023-08-30 14:37:28] Stampati tutti i dati dello studente
+[2023-08-30 14:37:28] Decriptati i dati dello studente
+[2023-08-30 14:37:28] Stampati tutti i dati dello studente
+[2023-08-30 14:37:28] Arresto del programma
+[2023-08-30 14:38:03] Avvio del programma
+[2023-08-30 14:38:03] Generati i dati dello studente
+[2023-08-30 14:38:03] Criptati i dati dello studente
+[2023-08-30 14:38:03] Stampati tutti i dati dello studente
+[2023-08-30 14:38:03] Decriptati i dati dello studente
+[2023-08-30 14:38:03] Stampati tutti i dati dello studente
+[2023-08-30 14:38:03] Arresto del programma
+[2023-08-30 14:40:03] Avvio del programma
+[2023-08-30 14:40:03] Generati i dati dello studente
+[2023-08-30 14:40:03] Criptati i dati dello studente
+[2023-08-30 14:40:03] Stampati tutti i dati dello studente
+[2023-08-30 14:40:03] Decriptati i dati dello studente
+[2023-08-30 14:40:03] Stampati tutti i dati dello studente
+[2023-08-30 14:40:03] Arresto del programma
+[2023-08-30 14:41:40] Avvio del programma
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati dello studente
+[2023-08-30 14:41:40] Generati i dati degli studenti nell'elenco
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:40] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati tutti i dati dello studente
+[2023-08-30 14:41:41] Stampati studenti in ordine alfabetico
+[2023-08-30 14:41:41] Arresto del programma
+[2023-08-30 14:42:12] Avvio del programma
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati dello studente
+[2023-08-30 14:42:12] Generati i dati degli studenti nell'elenco
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati tutti i dati dello studente
+[2023-08-30 14:42:12] Stampati studenti ordinati per anno di nascita
+[2023-08-30 14:42:12] Arresto del programma

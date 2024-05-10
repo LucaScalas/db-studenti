@@ -1,0 +1,3 @@
+C:/Users/super/OneDrive/Desktop/progetto/cmake-build-debug/CMakeFiles/progetto.dir
+C:/Users/super/OneDrive/Desktop/progetto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/super/OneDrive/Desktop/progetto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+# ninja log v5
+16	325	7150902379687171	CMakeFiles/progetto.dir/inserimento.c.obj	48673aed8577659f
+6	281	7151021805265708	CMakeFiles/progetto.dir/main.c.obj	cb0a8c8d9b105380
+24	287	7150902379247416	CMakeFiles/progetto.dir/libreria.c.obj	e6005d5a4aed7ec1
+284	633	7151021808883636	progetto.exe	9103819029752695
+607	984	7150879925619657	CMakeFiles/progetto.dir/stampa.c.obj	db73eb1b131fbf69
+11	273	7151021690956313	CMakeFiles/progetto.dir/crittatura.c.obj	ca4d15cdf69f6951
+616	979	7150879925589665	CMakeFiles/progetto.dir/generazione.c.obj	2d6b2e4cf0d8ee8b
+4	230	7151022483073684	CMakeFiles/progetto.dir/main.c.obj	cb0a8c8d9b105380
+14	231	7151022483093682	CMakeFiles/progetto.dir/crittatura.c.obj	ca4d15cdf69f6951
+232	475	7151022485292422	progetto.exe	9103819029752695
+4	172	7151022826680356	CMakeFiles/progetto.dir/main.c.obj	cb0a8c8d9b105380
+173	374	7151022828629245	progetto.exe	9103819029752695
+5	245	7151024995717998	CMakeFiles/progetto.dir/main.c.obj	cb0a8c8d9b105380
+18	254	7151024995867882	CMakeFiles/progetto.dir/crittatura.c.obj	ca4d15cdf69f6951
+254	492	7151024998186559	progetto.exe	9103819029752695
+6	185	7151025312858125	CMakeFiles/progetto.dir/main.c.obj	cb0a8c8d9b105380
+187	542	7151025316226199	progetto.exe	9103819029752695
